@@ -1,0 +1,7 @@
+total 16
+drwxrwxr-x 4 pedro pedro 4096 abr 21 13:15 .
+drwxr-xr-x 8 pedro pedro 4096 abr 21 13:15 ..
+-rw-rw-r-- 1 pedro pedro    0 abr 21 13:15 1.txt
+-rw-rw-r-- 1 pedro pedro    0 abr 21 13:15 2.txt
+drwxrwxr-x 2 pedro pedro 4096 abr 21 13:15 p2
+drwxrwxr-x 2 pedro pedro 4096 abr 21 13:15 p6
