@@ -10,7 +10,8 @@ let CONT=0
 while IFS='' read -r linea || [[ -n "$linea" ]]; do
     let CONT++
     if [[ CONT -eq 2 ]]; then
-    	html+="<span>$linea</span>"
+    	fecha=$(date -d "$linea" +%d-%m-%Y\ %T)
+    	html+="<span>$fecha</span>"
     	CONT=0
     else
     	html+="<h1>$linea</h1>"
