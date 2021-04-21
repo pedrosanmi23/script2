@@ -12,6 +12,7 @@ Tenemos varios scripts:
 -Un script que obtiene de un feed el titulo de las entrada y la fecha y las muestra por pantalla
 
 ##Ejemplos de funcionamiento
+
 Calculadora
 
 
